@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="left">السلام عليكم 👋</h1>
 
-<!--
-**nissrine10115/nissrine10115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salut, moi c'est Nissrine
 
-Here are some ideas to get you started:
+Étudiante ingénieure en **Ingénierie du Développement d'Applications Informatiques (IADI)**
+à FST Tanger, Université Abdelmalek Essaâdi 🇲🇦 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 En ce moment
+- J'apprends PHP, HTML/CSS, C++ et la programmation orientée objet
+- Je découvre Git et GitHub
+  
+## 🛠️ Technologies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Me contacter
+- Email : nissrine.elkouh@etu.uae.ac.ma
