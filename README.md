@@ -3,7 +3,7 @@
 # Salut, moi c'est Nissrine
 
 Étudiante ingénieure en **Ingénierie du Développement d'Applications Informatiques (IADI)**
-à FST Tanger, Université Abdelmalek Essaâdi 🇲🇦 
+à la FST Tanger, Université Abdelmalek Essaâdi 🇲🇦 
 
 ## 🔭 En ce moment
 - J'apprends PHP, HTML/CSS, C++ et la programmation orientée objet
